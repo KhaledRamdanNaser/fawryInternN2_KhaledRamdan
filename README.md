@@ -45,7 +45,6 @@ The objective was to build a modular bookstore system that:
 > It helped by giving me:
 > - Book names and ISBNs for realism
 > - Edge-case examples (e.g., stock = 0, demo book)
-> - The structure of the test method `QuantumBookstoreFullTest.java`
 
 > 💡 All core code logic, structure, and class implementation were written and understood entirely by me as part of the Fawry Internship Challenge.
 
